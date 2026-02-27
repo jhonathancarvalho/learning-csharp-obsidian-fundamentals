@@ -1,10 +1,10 @@
 ### 🟪 learning-csharp-obsidian-fundamentals
 
-Repositório com anotações estruturadas feitas no Obsidian, exercícios práticos e projetos focados na aprendizagem dos fundamentos da linguagem C# e da plataforma .NET.
+Repository con appunti strutturati realizzati in Obsidian, esercizi pratici e progetti focalizzati sull’apprendimento dei fondamenti del linguaggio C# e della piattaforma .NET.
 
-O conteúdo está organizado por temas técnicos como Backend, Banco de Dados, DevOps e Frontend, facilitando o estudo contínuo e segmentado.
+Il contenuto è organizzato per aree tecniche come Backend, Database, DevOps e Frontend, facilitando uno studio continuo e segmentato.
 
-#### Tecnologias
+#### Tecnologie
 
 <p>
   <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat&logo=csharp&logoColor=white" alt="CSharp" />  
